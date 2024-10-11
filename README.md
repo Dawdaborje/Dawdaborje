@@ -26,5 +26,5 @@ I love contributing to open-source projects and sharing what I've learned with t
 Feel free to reach out for collaborations, tech talks, or if you just want to chat!
 
 - LinkedIn: [Link](https://www.linkedin.com/in/dawda-kujabi-9680a7289/)
-- Twitter: [Your Twitter](#)
-- Email: [Your Email](#)
+- Twitter: [Link](#)
+- Email: dawdaborjekujabi@gmail.com
