@@ -1,4 +1,5 @@
 # Hi, I'm Dawda Börje Kujabi
+I am a noob developer.
 
 **GitHub**: [Legacy Engineers](https://github.com/Legacy-Engineers)
 
